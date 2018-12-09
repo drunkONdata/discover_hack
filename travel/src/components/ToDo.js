@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Card, Button, Form, Grid, Segment, Label } from 'semantic-ui-react'
+import { Card, Image, Button, Form, Grid, Segment, Label } from 'semantic-ui-react'
 import model from '../models/requests'
 
 export class ToDo extends Component {
@@ -24,15 +24,23 @@ export class ToDo extends Component {
   }
 
   render(){
-    console.log(this.state.merchantData)
-    var merchList = this.state.merchantData.map((merch)=>{
+    var merchList = ((this.state.type!=='Offers')? this.state.merchantData.map((merch)=>{
       return (
       <Card>
         <Card.Header>{merch.name}</Card.Header>
         <Card.Meta>{merch.phone}</Card.Meta>
         <Card.Description>{merch.address1}</Card.Description>
       </Card>
+    )}) : this.state.merchantData.map((merch)=>{
+      return (
+      <Card>
+        <Image src={merch.images} />
+        <Card.Header>{merch.merchant_name}</Card.Header>
+        <Card.Meta>Distance: {merch.distance}</Card.Meta>
+        <Card.Description>{merch.name}</Card.Description>
+      </Card>
     )})
+  )
 
     return (
       <Grid centered>
