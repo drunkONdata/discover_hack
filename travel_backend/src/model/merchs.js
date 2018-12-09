@@ -1,7 +1,7 @@
 const axios = require('axios')
 const GUIDE_BASE_URL = 'https://api.discover.com/cityguides/v2/merchants';
 const OFFER_BASE_URL = 'https://api.discover.com/dci-offers/v2/offers'
-const token = '21d3a28a-1a7b-42e6-90dd-e54331544ac7';
+const token = '04f28ff9-8f93-437d-b2e9-f664086f2509';
 
 function getAllMerch(){
   const queryParams = '?' +  encodeURIComponent('card_network') + '=' + encodeURIComponent('DCI')+ '&' +  encodeURIComponent('has_privileges') + '=' + encodeURIComponent('false')+ '&' +  encodeURIComponent('sortby') + '=' + encodeURIComponent('name')+ '&' +  encodeURIComponent('sortdir') + '=' + encodeURIComponent('asc');
