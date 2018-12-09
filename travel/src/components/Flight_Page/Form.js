@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
 import { Button, Form, Grid, Segment, Label } from 'semantic-ui-react'
+import model from '../../models/requests'
+import { withRouter } from 'react-router-dom'
 
 
-
-export class Form extends Component {
-  constructor(props) {
-    state = {
-      flight: 'ua 32',
-      date: '20181210'
-    }
+export class FlightForm extends Component {
+  state = {
+    flight: 'ua 32',
+    date: '20181210'
   }
 
   onChange = (event) => {
@@ -51,14 +50,18 @@ export class Form extends Component {
     let flightNum = airinfo.num
     let date = this.formatDate(this.state.date)
 
+    console.log('airinfo', airinfo, 'airline', airline, 'flightNum', flightNum, 'date', date)
     const res = await model.getFlightInfo(airline, flightNum, date)
-    // let flightNum = res.
-    // let airport = res. 
-    // let departTime = res. 
+
+    let flNum = this.state.flight
+    let airport = res.FLSDepartureCode
+    let departTime = res.FLSDepartureDateTime
+
     this.props.history.push({
       pathname: '/flight/match',
-      search: `?flightNum=${flightNum}&date=${date}&airport=${airport}&departTime=${departTime}`
+      search: `?flightNum=${flNum}&date=${date}&airport=${airport}&departTime=${departTime}`
     })
+
     this.setState({
       flight: '',
       date: ''
@@ -66,18 +69,21 @@ export class Form extends Component {
   }
 
   render() {
-    <div className='ui form'>
-      <div className='inline field'>
-        <input type="text" placeholder="Flight Number" name='flight' className='form_input' onChange={this.onChange} />
-        is departing on
-      </div>
-      <div className='inline field'>
-        <input type="text" placeholder="date." name='date' className='form_input' onChange={this.onChange} />
-      </div>
-      <button className='ui button oki_btn'>Okay</button>
-    </div>
+    return (
+      <Form onSubmit={this.onSubmit}>
+        <div className='ui form'>
+          <div className='inline field'>
+            <input type="text" placeholder="Flight Number" name='flight' className='form_input' onChange={this.onChange} />
+            is departing on
+        </div>
+          <div className='inline field'>
+            <input type="text" placeholder="date." name='date' className='form_input' onChange={this.onChange} />
+          </div>
+          <button className='ui button oki_btn'>Okay</button>
+        </div>
+      </Form>
+    )
   }
 }
 
-export default Form;
-
+export default withRouter(FlightForm);
