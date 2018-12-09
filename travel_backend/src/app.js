@@ -11,7 +11,7 @@ app.use(require('body-parser').json())
 app.use(require('cors')())
 
 //app.use('/time', require('./routes/time'))
-//app.use('/flight', require('./routes/flight'))
+app.use('/flight', require('./routes/flight'))
 app.use('/merchs', require('./routes/merchs'))
 
 
