@@ -9,9 +9,10 @@ class TimeList extends Component {
   }
 
   render() {
-    
+
     // in the future, create a form to ask for origin + destination
     const time = model.timeToAirport('Universal Studio Hollywood', 'LAX').duration
+    console.log('timetoairport', time)
     let cards = [{
       id: 1,
       title: "TO AIRPORT",
@@ -29,19 +30,19 @@ class TimeList extends Component {
       time: 60
     }, {
       id: 4,
-      title: "TO GATE", 
+      title: "TO GATE",
       img: "https://placeimg.com/150/200/any",
       time: 5
     }]
 
     console.log('cards', cards)
     return (
-      <Grid centered class="cards">
+      <Grid centered className="cards">
         <Grid.Column>
           {
             cards.map(el => {
-                return <TimeCard key={el.id} title={el.title} pic={el.img} time={el.time} />
-              })            
+              return <TimeCard key={el.id} title={el.title} pic={el.img} time={el.time} />
+            })
           }
         </Grid.Column>
       </Grid>
