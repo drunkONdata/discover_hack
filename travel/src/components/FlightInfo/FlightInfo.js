@@ -4,16 +4,15 @@ import model from '../../models/requests'
 
 export class FlightInfo extends Component {
   state = {
-    flightNumber:null,
-    departureTime: null
+    flightNumber:'UA 32',
+    departureTime: "2018-12-10T10:40:00"
   }
 
   // async componentDidMount(){
-  //   const res = await model.getFlightInfo()
-  //   console.log(res)
+  //   const res = await model.getFlightInfo('ua', 32)
   //   this.setState({
-  //     departureTime: res.FLSDepartureDateTime,
-  //
+  //     ...this.state,
+  //     departureTime: res.FLSDepartureDateTime
   //   })
   // }
 

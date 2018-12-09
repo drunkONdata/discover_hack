@@ -7,8 +7,8 @@ const timeToAirport = async (start, end, mode = 'driving') => {
   return res
 }
 
-async function getFlightInfo(){
-  let res = await axios.get(`${BASE_URL}/flight/airline/ua/flight/32`)
+async function getFlightInfo(airline, flightNumber){
+  let res = await axios.get(`${BASE_URL}/flight/airline/${airline}/flight/${flightNumber}`)
   return res.data.flightInfo
 }
 
