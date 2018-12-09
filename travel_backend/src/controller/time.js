@@ -21,6 +21,7 @@ const toAirport = async (req, res, next) => {
   try {
     let start = splitAdd(req.query.start)
     let end = splitAdd(req.query.end)
+    console.log('this is start', start)
     let mode = req.query.mode || 'driving'
     let result = await model.toAirport(start, end, mode)
     let distance = result.routes[0].legs[0].distance.text
