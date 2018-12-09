@@ -1,4 +1,6 @@
-# TravelHub
+<p align="center">
+<img src="travel_hub.png" width=350>
+  
 2018 Hack Your Trip Hackathon - Seattle, WA
 
 ### The Challenge
