@@ -29,14 +29,14 @@ class TimeList extends Component {
       time: this.state.time // to be filled 
     }, {
       id: 2,
-      title: "TO CHECK-IN",
+      title: "CHECK-IN",
       img: checkin,
       time: 60
     }, {
       id: 3,
-      title: "TO SECURITY",
+      title: "SECURITY",
       img: security,
-      time: 60 // use time series later
+      time: 60 // use time series later. Already have the data models. 
     }, {
       id: 4,
       title: "TO GATE",
