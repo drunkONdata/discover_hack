@@ -2,14 +2,14 @@ import React from 'react';
 
 const TimeCard = ({ title, pic, time }) => {
   return (
-    <div class="ui card">
-      <div class="content">
-        <div class='header'>{title}</div>
+    <div className="ui card">
+      <div className="content">
+        <div className='header'>{title}</div>
       </div>
-      <div class="image">
+      <div className="image">
         <img src={pic} />
       </div>
-      <div class="description">
+      <div className="description">
         {time}
       </div>
     </div>
