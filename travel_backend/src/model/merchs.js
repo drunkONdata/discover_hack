@@ -1,7 +1,7 @@
 const axios = require('axios')
 const GUIDE_BASE_URL = 'https://api.discover.com/cityguides/v2/merchants';
 const OFFER_BASE_URL = 'https://api.discover.com/dci-offers/v2/offers'
-const token = '92724d8e-a0f4-4f17-9789-06da76710692';
+const token = '7a1df2d2-1284-45c1-ac97-1ae73f30f686';
 
 function getAllMerch(){
   const queryParams = '?' +  encodeURIComponent('card_network') + '=' + encodeURIComponent('DCI')+ '&' +  encodeURIComponent('has_privileges') + '=' + encodeURIComponent('false')+ '&' +  encodeURIComponent('sortby') + '=' + encodeURIComponent('name')+ '&' +  encodeURIComponent('sortdir') + '=' + encodeURIComponent('asc');
@@ -14,10 +14,12 @@ function getAllMerch(){
   })
 }
 
-function getMerchByCity(city){
+function getMerchByCity(city, type){
   const queryParams = '?' +  encodeURIComponent('card_network') + '=' + encodeURIComponent('DCI')+ '&' +
   encodeURIComponent('merchant_city') + '=' +
-  encodeURIComponent(`${city}`)
+  encodeURIComponent(`${city}`) + '&' +
+  encodeURIComponent('merchant_category') + '=' +
+  encodeURIComponent(`${type}`) + '&' +
   encodeURIComponent('has_privileges') + '=' + encodeURIComponent('false')+ '&' +  encodeURIComponent('sortby') + '=' + encodeURIComponent('name')+ '&' +  encodeURIComponent('sortdir') + '=' + encodeURIComponent('asc');
   return axios.get(`${GUIDE_BASE_URL}${queryParams}`, {
     headers: {
