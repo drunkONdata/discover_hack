@@ -19,7 +19,6 @@ export class MerchContainer extends Component {
   // }
 
   render(){
-    console.log(this.props)
     const categories = ['Offers', 'Hotels', 'Restaurants', 'Retail', 'Attractions']
     var cardList = categories.map((category)=>
     {
