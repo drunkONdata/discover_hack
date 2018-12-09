@@ -1,12 +1,20 @@
 import React, { Component } from 'react';
+import { Button, Form, Grid, Segment, Label } from 'semantic-ui-react'
 
-// The second screen in the MVP, list of offers 
-const Offers = () => {
-  return (
-    <div>
+export class Offers extends Component {
+  state = {
+  }
 
-    </div>
-  )
+  render(){
+    return (
+      <Grid centered>
+        <Grid.Column stretched computer={3} mobile={14}>
+          Offers
+        </Grid.Column>
+      </Grid>
+    );
+  }
 }
 
-export default Offers 
+
+export default Offers;
