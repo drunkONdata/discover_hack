@@ -9,6 +9,7 @@ export class HomePage extends Component {
     return (
       <Grid centered>
         <Grid.Column stretched computer={3} mobile={14}>
+        <TimeList />
           HomePage
         </Grid.Column>
       </Grid>
