@@ -1,0 +1,39 @@
+.body {
+  font-family: AvenirNext-Bold;
+}
+.time_cards {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  /* height: 30vh; */
+  -webkit-overflow-scrolling: touch;
+}
+
+.time_cards {
+  -webkit-overflow-scrolling: touch;
+  
+} 
+::-webkit-scrollbar {
+  display: none; 
+}
+
+.tcard {
+  display: inline-block !important;
+  text-align: center;
+  padding: 15px !important;
+  height: 170px;
+  margin: 8px !important;
+  font-weight: bold;
+  background-color: #f7f9f8 !important;
+}
+
+.title {
+  text-transform: uppercase;
+  margin: 12px;
+  font-size: 16px;
+}
+
+.time_estimate {
+  color: #FF6600;
+  font-size: 17px;
+}

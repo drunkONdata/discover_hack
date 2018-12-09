@@ -2,46 +2,54 @@ import React, { Component } from 'react';
 import { Grid } from 'semantic-ui-react'
 import TimeCard from './TimeCard'
 import model from '../../models/requests'
+import './time.css'
+import commute from './assets/commute.png'
+import checkin from './assets/checkin.png'
+import security from './assets/security.png'
+import airplane from './assets/airplane_bk.png'
 
 class TimeList extends Component {
-  constructor(props) {
-    super(props)
+  state = {
+    time: 30
+  }
+
+  async componentDidMount() {
+    const time = await model.timeToAirport('Universal Studio Hollywood', 'LAX')
+    this.setState({
+      time: time.duration
+    })
   }
 
   render() {
-
     // in the future, create a form to ask for origin + destination
-    const time = model.timeToAirport('Universal Studio Hollywood', 'LAX').duration
-    console.log('timetoairport', time)
     let cards = [{
       id: 1,
       title: "TO AIRPORT",
-      img: "https://placeimg.com/150/200/any",
-      time
+      img: commute,
+      time: this.state.time // to be filled 
     }, {
       id: 2,
       title: "TO CHECK-IN",
-      img: "https://placeimg.com/150/200/any",
+      img: checkin,
       time: 60
     }, {
       id: 3,
       title: "TO SECURITY",
-      img: "https://placeimg.com/150/200/any",
-      time: 60
+      img: security,
+      time: 60 // use time series later
     }, {
       id: 4,
       title: "TO GATE",
-      img: "https://placeimg.com/150/200/any",
+      img: airplane,
       time: 5
     }]
 
-    console.log('cards', cards)
     return (
       <Grid centered className="cards">
-        <Grid.Column>
+        <Grid.Column className="time_cards">
           {
             cards.map(el => {
-              return <TimeCard key={el.id} title={el.title} pic={el.img} time={el.time} />
+              return <TimeCard key={el.id} img={el.img} title={el.title} time={el.time} />
             })
           }
         </Grid.Column>
