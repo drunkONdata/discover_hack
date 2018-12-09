@@ -53,8 +53,6 @@ const toAirport = async (req, res, next) => {
 // before counter closes: 60 mins 
 // walk from security gate: 2 - 3 mins 
 
-
-
 module.exports = {
   toAirport
 }
