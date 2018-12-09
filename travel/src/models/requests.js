@@ -6,6 +6,11 @@ async function getFlightInfo(airline, flightNumber){
   return res.data.flightInfo
 }
 
+async function getMerchantInfo(city, type){
+  let res = await axios.get(`${BASE_URL}/merchs/${city}/${type}`)
+  return res.data
+}
+
 const timeToAirport = (start, end, mode = 'driving') => {
   return axios.get(`${BASE_URL}/time/toairport?start=${start}&end=${end}&mode=${mode}`)
     .then(result => result)
@@ -15,5 +20,6 @@ const timeToAirport = (start, end, mode = 'driving') => {
 
 export default {
   timeToAirport,
-  getFlightInfo
+  getFlightInfo,
+  getMerchantInfo
 }

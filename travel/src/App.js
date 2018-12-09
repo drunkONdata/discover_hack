@@ -3,6 +3,7 @@ import { Switch, Route, Redirect, BrowserRouter as Router } from 'react-router-d
 
 import HomePage from './components/HomePage'
 import Offers from './components/Offers'
+import ToDO from './components/ToDo'
 
 class App extends Component {
   constructor() {
@@ -16,6 +17,7 @@ class App extends Component {
           <Switch>
             <Route exact path='/' component={HomePage} />
             <Route exact path='/offers' component={Offers} />
+            <Route exact path='/todo' component={ToDO} />
             <Redirect to="/" />
           </Switch>
         </div>
