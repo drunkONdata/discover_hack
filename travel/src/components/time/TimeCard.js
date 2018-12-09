@@ -1,8 +1,4 @@
 import React from 'react';
-
-
-import { blank } from 'react-icons-kit/metrize/blank'
-import { Icon } from 'react-icons-kit'
 import './time.css'
 
 
