@@ -23,8 +23,8 @@ travelHUB provides a seamless user experience from door to seat, while reinforci
 * Back-end data analytics platform for extracting user behavior
 
 ### Links
-- Presentation Slides: https://bit.ly/2EDTzAt
-- GitHub: https://github.com/drunkONdata/Multaja
+- Presentation Slides: http://bit.ly/2Ekzqy9
+- GitHub: https://github.com/drunkONdata/discover_hack
 
 ### Future Work
 * Validate Discover Merchants with user feedback
