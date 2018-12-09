@@ -1,0 +1,1785 @@
+{
+   "result": [
+    {
+       "card_network": "DCI",
+       "name": "1823 Tea Lounge",
+       "phone": "66 2 656 1086",
+       "address1": "999 Graysorn Building, \
+       Unit 1F-04/1",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5407246,
+         13.7448942 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "A&J Silver",
+       "phone": "66 2 267 4567",
+       "address1": "1249/26 Gems Tower, \
+       Charoenkrung Road",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.516682,
+         13.723825 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "A-One Bangkok Hotel",
+       "phone": "66 2 718 1030",
+       "address1": "9 Soonvijai 4, \
+       New Petchburi Road",
+       "zip_code": "10310",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.a-onehotel.com/bangkok/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.584818,
+         13.748129 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "AGEHA Cafe Bar",
+       "phone": "66 2 652 3007",
+       "address1": "62/6 Surawong Road, \
+       3rd Floor",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.thai-kawaii-ageha.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5331244,
+         13.7305395 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "AVANI Riverside Bangkok Hotel",
+       "phone": "66 2 431 9100",
+       "address1": " 257 Charoennakorn Road",
+       "zip_code": "10600",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.minorhotels.com/en/avani/riverside-bangkok",
+       "privileges_url": "https://www.dinersclub.com/clubmembers/privileges/avani-riverside-bangkok-hotel-bangkok#111",
+       "privileges_ids": [ "17063" 
+      ],
+       "point": [ 100.4917476,
+         13.7046547 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Akbar Restaurant",
+       "phone": "66 2 255 6935",
+       "address1": "1/4 Sukhumvit Soi 3 Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.575397,
+         13.7269524 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Akko Trading Co.",
+       "phone": "66 2 259-1436",
+       "address1": "919/1 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.akkoart.com/about_akko",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5758309,
+         13.7264026 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "American Eagle",
+       "phone": "",
+       "address1": "388 Pharam 1 Road, \
+       Siam Square One",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.6301241,
+         13.740192 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "American Eagle Outfitters",
+       "phone": "66 2 001 5810",
+       "address1": "991 Rama 1 Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "https://www.ae.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5354125,
+         13.7467681 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "An An Lao",
+       "phone": "66 2 261 8188",
+       "address1": "122 Sukhumvit 26, \
+       Klongtoey",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.ananlao.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.568162,
+         13.719883 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Anantara Bangkok Hotel - Siam",
+       "phone": "66 2 126 8866",
+       "address1": "155 Ratchadamri Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://siam-bangkok.anantara.com/",
+       "privileges_url": "https://www.dinersclub.com/clubmembers/privileges/anantara-siam-bangkok-hotel-bangkok#111",
+       "privileges_ids": [ "16982" 
+      ],
+       "point": [ 100.5418178,
+         13.7406028 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Anantara Bangkok Resort - Riverside",
+       "phone": "66 2 476 0022",
+       "address1": "257/1-3 Charoennakorn Road",
+       "zip_code": "10600",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://bangkok-riverside.anantara.com/",
+       "privileges_url": "https://www.dinersclub.com/clubmembers/privileges/anantara-riverside-bangkok-resort-bangkok#111",
+       "privileges_ids": [ "16976" 
+      ],
+       "point": [ 100.4917476,
+         13.7046547 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Anne Bra",
+       "phone": "66 2 611 8055",
+       "address1": "444 Phayathai Road, \
+       1C-21 MBK Center",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.annebra.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5299018,
+         13.7444755 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Apinara",
+       "phone": "66 2 252 0063",
+       "address1": "1 Ratchadamri Road, \
+       2 Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.naracuisine.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5387143,
+         13.7367377 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Arisra Gallery",
+       "phone": "66 2 630 6131",
+       "address1": "6-8 Soicharoenkrung 40 Charoenkrung Road",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5160595,
+         13.7240256 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Artur Restaurant Steaks Seafood Martini",
+       "phone": "66 2 658 6288",
+       "address1": "9 Soi Tonson, \
+       Ploenchit Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.545348,
+         13.742094 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Baan Glom Gig Restaurant",
+       "phone": "66 2 254 4254",
+       "address1": "25 Soi Ruam Ruedi",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5502297,
+         13.7391137 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Baan Khanitha - Asiatique",
+       "phone": "66 2 108 4910",
+       "address1": "Asiatique The Riverfront",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.baan-khanitha.com/index.php",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5033803,
+         13.7051756 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Baan Khanitha - Soi Sukhumvit 23",
+       "phone": "66 2 258 4128",
+       "address1": "6/1 Soi Sukhumvit 23",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.baan-khanitha.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5629454,
+         13.7367621 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Baan Klang Nam 2",
+       "phone": "66 2 682 7180",
+       "address1": "762/7 Rama Road 3",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5343614,
+         13.6723745 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Baan Nakatani",
+       "phone": "66 2 651 0550",
+       "address1": "63 Soi Chaiyod, \
+       Sukhumvit 11 Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.baan-nakatani.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5559355,
+         13.7478475 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Baccara Bar",
+       "phone": "66 2 258 4332",
+       "address1": "23 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.baccarabarbangkok.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5770606,
+         13.7264292 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Ban Dokmai",
+       "phone": "66 2 941 9990",
+       "address1": "180/4 GP.7 Phaholyothin 32 Chankasem Chatuchak",
+       "zip_code": "10900",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5853348,
+         13.8399858 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Banana Mobile",
+       "phone": "66 2 610 6750 51",
+       "address1": "991 Rama I Road, \
+      3rd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5351788,
+         13.7454544 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Banana Republic",
+       "phone": "",
+       "address1": "693-695 Sukhumvit Road, \
+       1A - 06",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://bananarepublic.co.th/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5691267,
+         13.7317002 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Banana Store - Central World",
+       "phone": "66 91 808 3519",
+       "address1": "4 Rama 1 Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5398188,
+         13.7462276 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Banana Store - It Fortune Town",
+       "phone": "66 2 641 0953",
+       "address1": "3rd Floor, \
+       Rm 3E25-26, \
+       Ratchadaphisek Road",
+       "zip_code": "10400",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5743191,
+         13.7898474 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Bangkok Marriott Hotel - Sukhumvit",
+       "phone": "66 2 797 0000",
+       "address1": "2 Sukhumvit Soi 57 Klongtan Nua",
+       "zip_code": "10100",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.marriott.com/hotels/travel/bkkms-bangkok-marriott-hotel-sukhumvit/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5803311,
+         13.723195 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Bata - Central World",
+       "phone": "66 2 252 2399",
+       "address1": "4 Rajdamri Road, Central World 3rd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5396561,
+         13.7457087 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Bata - Lotus Rama IV",
+       "phone": "66 2 671 6383",
+       "address1": "3300 Lotus, \
+       Rama 4 2nd Floor",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.568238,
+         13.717463 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Belle's Room",
+       "phone": "66 2 630 1998",
+       "address1": "981 Si Lom",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5195006,
+         13.72288 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Bershka - Central World",
+       "phone": "66 2 250 7840",
+       "address1": "4, Central World 2nd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5389145,
+         13.7474444 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Bi Chalai",
+       "phone": "66 2 880 0831",
+       "address1": "979 Rama 1 Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.531427,
+         13.7461578 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Blue Elephant Cooking School",
+       "phone": "66 2 673 9353",
+       "address1": "233 S Sathorn Road",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.blueelephant.com/bangkok/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5187233,
+         13.7171989 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Boon Tong Kee Restaurant",
+       "phone": "66 2 119 4515",
+       "address1": "54 Soi Phayakkhaphon",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.boontongkeethailand.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5346896,
+         13.7044608 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Boots",
+       "phone": "",
+       "address1": "246 Sukhumvit Rd, \
+       Ground Floor Unit 107",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.th.boots.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5693282,
+         13.7321857 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Bossini",
+       "phone": "",
+       "address1": "1093 BangnaTrad Road, \
+       Central Plaza Bangna",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.bossini.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.6346465,
+         13.669979 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Burger King",
+       "phone": "6625351679",
+       "address1": "222 Donmuang Airport, \
+       Ground Floor, \
+       Vipavadirangsit Road",
+       "zip_code": "10210",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.6018656,
+         13.919202 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Cafe Ice",
+       "phone": "66 2 630 5522",
+       "address1": "1323 Charoenkrung Road",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5158907,
+         13.7203853 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Café De Laos",
+       "phone": "66 2 635 2338",
+       "address1": "16, \
+       Silom 19 Road",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.cafedelaos.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5238222,
+         13.7239092 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Calvin Klein Jeans",
+       "phone": "66 2 613 1568",
+       "address1": "4, Ratchadamri Road, \
+       Central World, \
+       1st Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5398188,
+         13.7462276 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Canali",
+       "phone": "66 2 610 9994",
+       "address1": "622 Sukhumvit Road, \
+       Emporium Shopping Centre, \
+       1st Floor, \
+       Rm 2P12-13",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5683468,
+         13.7299763 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Canali Boutique",
+       "phone": "66 2 610 9994",
+       "address1": "991 Rama 1 Road, \
+       Siam Paragon Shopping Center, \
+       Main Floor, \
+       Room M15A",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.canali.com/it_it/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.535273,
+         13.747109 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Chai Gold Label",
+       "phone": "66 2 658 1621",
+       "address1": "979 Rama I Road, \
+       Siam Paragon Shopping Center, \
+       3rd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.534788,
+         13.744632 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Charles & Keith - Siam Center",
+       "phone": "66 2 658 1000",
+       "address1": "979 Rama I Road, \
+       Siam Paragon Shopping Center, \
+       2nd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5347688,
+         13.7467024 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Charles & Keith - Terminal 21",
+       "phone": "66 2 108 0957",
+       "address1": "Terminal 21, \
+       88 Sukhumvit 19, \
+       Rm Sh-M-038, \
+       Main Floor, \
+       Klongtpeynue Wattana",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5602023,
+         13.7377149 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Charoenchai",
+       "phone": "",
+       "address1": "735 Mangkorn Road",
+       "zip_code": "10100",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.507639,
+         13.7410466 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Chatrium Hotel - Riverside",
+       "phone": "66 2 307 8888",
+       "address1": "291 Soi 24 Naradhiwas Rajanaga",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.chatrium.com/chatrium_hotel/location-en.html",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.509074,
+         13.711127 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Chef Man",
+       "phone": "662 210 8100",
+       "address1": "33/1 South Sathorn Road, \
+       3rd floor Eastin Grand Sathorn",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.eastinhotelsresidences.com/eastingrandsathornbangkok/dining-en.html#item_71",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.521924,
+         13.71899 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "China White",
+       "phone": "66 2 646 1218",
+       "address1": "4 Central World Plaza, \
+       Rajdamri Road, \
+       3rd Floor, \
+       Rm B302",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5398188,
+         13.7462276 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Chockchai Steak House",
+       "phone": "66 2 259 9596",
+       "address1": "Sukhumvit 23, \
+       Prasarnmit Plaza Building 45",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.farmchokchai.com/en/index_content.php?content_id=56",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.56293,
+         13.7405693 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Christian Dior",
+       "phone": "66 2 610 6799",
+       "address1": "991 Siam Paragon, \
+       Rama 1 Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5346924,
+         13.7459231 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "CityPoint Hotel",
+       "phone": "66 2 229 4392",
+       "address1": "6/22 Ratchadapisek Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "https://citypointhotel.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5610236,
+         13.7356178 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Coach - Central Plaza Ladprao",
+       "phone": "",
+       "address1": "1697 Paholyothin Rd, \
+       Central Plaza Ladprao, \
+       Rm 137, \
+       1st Floor",
+       "zip_code": "10900",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.560972,
+         13.815815 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Coach - King Power Complex",
+       "phone": "66 2 677 8888",
+       "address1": "8, \
+       King Power Complex, \
+       Rangnam Road",
+       "zip_code": "10400",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://world.coach.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.537955,
+         13.760449 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Column Bangkok",
+       "phone": "66 2 302 2555",
+       "address1": "48 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.columnbangkok.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5786331,
+         13.723033 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Crabtree & Evelyn",
+       "phone": "66 2 646 1524",
+       "address1": "999/9 Rama I Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "https://crabtree-evelyn.co.th/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5224156,
+         13.7489706 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Crazy Step - Siam Paragon",
+       "phone": "66 2 129 4407",
+       "address1": "991 Siam Paragon, \
+       Rama 1 Road, \
+       1st Floors",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.535151,
+         13.746545 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Crazy Step - The Circle Ratchapruk",
+       "phone": "66 2 863 8717",
+       "address1": "C36/B60 The Circle Ratchapruk Ratchaphruek Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "https://crazystepdotnet.wordpress.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.4438725,
+         13.7672111 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Curated",
+       "phone": "66 2 196 2113",
+       "address1": "979 Rama I Road, \
+       Siam Paragon Shopping Center",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.535022,
+         13.746252 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Da+Pp",
+       "phone": "66 2 646 1385",
+       "address1": "4, Ratchadamri Road, \
+       Central World, \
+       2nd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5398188,
+         13.7462276 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Dairy Queen",
+       "phone": "66 2 618 3333",
+       "address1": "588 Kampaeng Phet 2 Road, kiosk",
+       "zip_code": "10900",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.dairyqueen.com/us-en/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.549212,
+         13.802254 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Dapper Access",
+       "phone": "66 2 255 3931",
+       "address1": "989 Siam Paragon, \
+       Rama 1 Road, \
+       2nd Floors",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.534788,
+         13.744632 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Della Spiga",
+       "phone": "66 2 656 1062",
+       "address1": "999 Ploenchit Road, \
+       Gaysorn Plaza, \
+       2nd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5407919,
+         13.7452525 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Det-5 Restaurant & Bar",
+       "phone": "66 2 653 1232",
+       "address1": "41, \
+       Sukhumvit Road Soi 8",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.det-5.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5656087,
+         13.7317147 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Dolce & Gabbana",
+       "phone": "662 6106790",
+       "address1": "991 Rama 1 Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.dolcegabbana.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5354125,
+         13.7467681 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Dong E",
+       "phone": "66 2 252 5301",
+       "address1": "Soi Sukhumvit 12",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5827828,
+         13.7393451 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Doo Rae Korean Restaurant",
+       "phone": "66 2 653 3815",
+       "address1": "12 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5907502,
+         13.7193884 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Dusit Princess Srinakarin Hotel",
+       "phone": "66 2 721 8400",
+       "address1": "53 Srinakarin Road",
+       "zip_code": "10260",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.dusit.com/dusitprincess/srinakarinbangkok/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.6428215,
+         13.6571362 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Dusit Thani Bangkok",
+       "phone": "66 2 200 9000",
+       "address1": "946 Rama 4 Road",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.dusit.com/dusitthani/bangkok/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5384786,
+         13.7286635 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Eastin Hotel Makkasan Bangkok",
+       "phone": "66 2 651 7600",
+       "address1": "1091/343 Phetchaburi Road, Charurat Alley",
+       "zip_code": "10400",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.eastinmakkasanbangkok.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.546699,
+         13.7532 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Ecco",
+       "phone": "",
+       "address1": "4, Ratchadamri Rd, \
+       Central World, \
+       Rm C302, \
+       3rd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5398188,
+         13.7462276 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Emporium",
+       "phone": "66 2 269 1000",
+       "address1": "622 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.emporium.co.th/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.568665,
+         13.7300597 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Emporium Food Hall",
+       "phone": "",
+       "address1": "622 Sukhumvit Rd",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.568665,
+         13.7300597 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Emporium Suites by Chatrium",
+       "phone": "66 2 664 9999",
+       "address1": "622 Sukhumvit Soi 24 Klongton",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.chatrium.com/chatrium_emporium/default-en.html",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.568772,
+         13.730755 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Emquartier Co.",
+       "phone": "66 2 269 1188",
+       "address1": "693-695 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.emquartier.co.th/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5698741,
+         13.7324271 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Erawan Diamond",
+       "phone": "",
+       "address1": "1691 Phahonyothin Road, \
+       Level 3 Kiosk, \
+       Centralplaza Ladprao",
+       "zip_code": "10900",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.560036,
+         13.817879 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Esprit",
+       "phone": "66 2 673 6368",
+       "address1": "79 Ratchada Road, \
+       Central Plaza Rama 3, \
+       1st Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.esprit.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.4379,
+         13.6632337 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Fendi",
+       "phone": "66 2 610 8000",
+       "address1": "991 Rama 1 Rd, \
+       Siam Paragon, \
+       Unit M-03",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.535477,
+         13.746775 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Firehouse",
+       "phone": "66 2 651 3643",
+       "address1": "33/26 Soi Sukhumwit 11",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.firehousethailand.com/en/home/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5723362,
+         13.7216375 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Fly Now Iii",
+       "phone": "66 2 108 5175",
+       "address1": "587, \
+      589 Raminthra Road",
+       "zip_code": "10230",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.6792529,
+         13.825953 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Flynow",
+       "phone": "66 2 8800 8317",
+       "address1": "Emquartier, \
+       622 Sukhumvit Road, \
+       2nd Floor, \
+       Room 2C07",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5696869,
+         13.7311589 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Fraser Suites - Urbana Sathorn",
+       "phone": "66 2 227 9999",
+       "address1": " 55 South Sathorn Road",
+       "zip_code": "10120",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.urbanahospitality.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5362533,
+         13.7234009 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Fuji",
+       "phone": "02-2540471-2",
+       "address1": "693 Sukhumvit Rd, \
+       Emquartier, \
+       6th Floor",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5696853,
+         13.7319703 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Fuku Intown",
+       "phone": "66 2 623 4200",
+       "address1": "292 Digital Gateway, \
+       Rm 223, \
+       2nd Floor, \
+       Soi 3 Pathumwan Pathumwan",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.533193,
+         13.744647 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Gap",
+       "phone": "66 2 610 9952",
+       "address1": "991 Rama I Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.gap.co.th/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5351788,
+         13.7454544 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Gems Gallery International",
+       "phone": "66 81 610 1010",
+       "address1": "198/23-24 Rama 6 Road",
+       "zip_code": "",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.gems-gallery.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5317418,
+         13.7779988 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Go! Ape",
+       "phone": "66 2 003 6640",
+       "address1": "693-695 Sukhumvit Road, \
+       MC07 The EmQuartier",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "https://bape.com/index/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5696853,
+         13.7319703 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Golden Tulip - Mandison Suites",
+       "phone": "66 2 636 5888",
+       "address1": "20 Sukhumvit Road",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.goldentulipmandison.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5906494,
+         13.7181257 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Golden Tulip - Sovereign",
+       "phone": "66 2 641 4777",
+       "address1": "92 Soi Saengcham Rama 9 Road Huai Khwang",
+       "zip_code": "10320",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.goldentulipbangkok.com/en",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5716639,
+         13.7534697 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Gourmet Market",
+       "phone": " 66 2 254 0143",
+       "address1": "2/88 Sukhumvit Soi 19, LG Floor",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "http://www.gourmetmarketthailand.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5604447,
+         13.7373528 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Grand Hyatt - Erawan",
+       "phone": "66 2 254 1234",
+       "address1": "494 Rajdamri Road",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "https://bangkok.grand.hyatt.com/en/hotel/home.html",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5404889,
+         13.7435228 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Great Residence Hotel",
+       "phone": "66 2 326 7206",
+       "address1": " 1892 Lat Krabang Road",
+       "zip_code": "10520",
+       "city": "Bangkok",
+       "mcc": "hotels",
+       "website": "http://www.thegreatresidence.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.7863529,
+         13.7217245 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Greyhound Café",
+       "phone": "66 2-937-0088",
+       "address1": "Central Ladprao, \
+       3rd Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.greyhoundcafe.co.th/greyhoundcafe/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5660458,
+         13.7589435 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Gyu Ichi Yakiniku Restaurant",
+       "phone": "66 2 937 1088",
+       "address1": "1697 Phahonyothin Rd, \
+       Central Plaza Ladprao",
+       "zip_code": "10900",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.560972,
+         13.815815 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Hakone",
+       "phone": "66 2 108 2790",
+       "address1": "982/22 Sukhumvit Road Prakanong",
+       "zip_code": "10110",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "http://www.hakonebangkok.com/",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.585289,
+         13.719089 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Hanamachi Japanese BBQ Restaurant",
+       "phone": "66 2 235 6667",
+       "address1": "58 16-17 Soi 1 Thaniya, \
+       Silom Road",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5334522,
+         13.729459 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Hanaya Japanese Restaurant",
+       "phone": "66 2 233 3080",
+       "address1": " 683 Si Phraya",
+       "zip_code": "10500",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5163785,
+         13.7303298 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Hanazen",
+       "phone": "66 2 619 7044",
+       "address1": "42 Soi Aree 5 Phaholyothin Rd",
+       "zip_code": "10400",
+       "city": "Bangkok",
+       "mcc": "restaurants",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5435337,
+         13.7847004 
+      ] 
+    },
+     
+    {
+       "card_network": "DCI",
+       "name": "Hardcover: The Art Book Shop At BACC",
+       "phone": "66 2 214 3155",
+       "address1": "1031 Ploenchit Rd, \
+       Central Embassy, \
+       4th Floor",
+       "zip_code": "10330",
+       "city": "Bangkok",
+       "mcc": "retail",
+       "website": "",
+       "privileges_url": "",
+       "privileges_ids": [
+      ],
+       "point": [ 100.5463333,
+         13.7439571 
+      ] 
+    } 
+  ],
+   "ok": true 
+}
