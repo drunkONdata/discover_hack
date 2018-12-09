@@ -13,9 +13,8 @@ app.use(require('cors')())
 //app.use('/api/token', require('./routes/token'))
 
 app.use('/time', require('./routes/time'))
-app.use('/flight', require('./routes/flight'))
-app.use('/merchs', require('./routes/merchs'))
-app.use('/auth', require('./routes/auth'))
+// app.use('/flight', require('./routes/flight'))
+// app.use('/merchs', require('./routes/merchs'))
 
 
 app.use((req, res, next) => {
