@@ -9,7 +9,7 @@ export class FlightInfo extends Component {
   }
 
   // async componentDidMount(){
-  //   const res = await model.getFlightInfo('ua', 32)
+  //   const res = await model.getFlightInfo('ua', 32, 20181210)
   //   this.setState({
   //     ...this.state,
   //     departureTime: res.FLSDepartureDateTime

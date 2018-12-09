@@ -16,7 +16,8 @@ async function getAllMerch(req, res, next){
 async function getMerchByCity(req, res, next){
   try{
     const city = req.params.city
-    const response = await model.getMerchByCity(city)
+    const type = req.params.type
+    const response = await model.getMerchByCity(city, type)
     const resp = response.data.result
     res.status(200).json({
       resp

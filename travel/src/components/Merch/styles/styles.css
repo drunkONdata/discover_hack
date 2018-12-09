@@ -1,0 +1,17 @@
+#MerchContainer {
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.merchCards {
+  display: inline-block !important;
+  background-color: #A9A9A9 !important;
+  text-align: center;
+  padding: 14px !important;
+  margin: 14px !important;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
