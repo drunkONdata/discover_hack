@@ -1,9 +1,16 @@
 import React, { Component } from 'react';
 import { Grid, Segment } from 'semantic-ui-react'
 import './flightPg.css'
+import moment from 'moment'
 
+const daysRemaining = (depart) => {
+  var depart = moment(depart)
+  var today = moment()
+  return depart.diff(today)
+}
 const FlightFound = ({ date, flightNum, airport, departTime }) => {
-  // calculate days let days = 
+  let days = daysRemaining(date)
+  console.log(this.props.location.pathname)
   return (
     <Grid centered>
       <Grid.Column stretched computer={14} mobile={14}>
@@ -32,7 +39,7 @@ const FlightFound = ({ date, flightNum, airport, departTime }) => {
         </Grid.Row>
         <Grid.Row>
           <div>
-            <p>Flight {flightNum} is departing {airport} at {departTime} on {date}</p>
+            {/* <p>Flight {flightNum} is departing {airport} at {departTime} on {date}</p> */}
           </div>
         </Grid.Row>
       </Grid.Column>
