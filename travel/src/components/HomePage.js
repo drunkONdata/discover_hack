@@ -12,9 +12,6 @@ const marginTopStyle = {
 }
 
 export class HomePage extends Component {
-  state = {
-  }
-
   render(){
     return (
       <Grid centered>
