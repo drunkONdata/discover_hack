@@ -3,10 +3,10 @@ import { Grid } from 'semantic-ui-react'
 import TimeCard from './TimeCard'
 import model from '../../models/requests'
 import './time.css'
-import commute from './assets/commute.png'
-import checkin from './assets/checkin.png'
-import security from './assets/security.png'
-import airplane from './assets/airplane_bk.png'
+import commute from '../../assets/commute.png'
+import checkin from '../../assets/checkin.png'
+import security from '../../assets/security.png'
+import airplane from '../../assets/airplane_bk.png'
 
 class TimeList extends Component {
   state = {
