@@ -1,6 +1,6 @@
 const axios = require('axios')
 const BASE_URL = 'https://flightlookup.azure-api.net/v1/xml/TimeTable/LAX/NRT';
-const API_KEY ='c3d6674425ac412f91a87109e85b49d3';
+const API_KEY ='04f28ff9-8f93-437d-b2e9-f664086f2509';
 
 function getFlightInfo(dateString, airline, flightNumber){
   const queryParams = '?' +  encodeURIComponent('Airline') + '=' + encodeURIComponent(`${airline}`)+ '&' +  encodeURIComponent('FlightNumber') + '=' + encodeURIComponent(`${flightNumber}`);
