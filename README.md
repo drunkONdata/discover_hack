@@ -17,7 +17,7 @@ Over 50% of U.S. vacationers admit they're more stressed today compared to a yea
 * Diane Chiang
 
 ### Our Project
-travelHUB provides a seamless user experience from door to seat, while reinforcing the Discover brand & collecting insight on customer behavior.
+travelHUB provides a seamless user experience from door to seat, while reinforcing the Discover brand & collecting insights on customer behavior.
 
 ### Unique Features
 * Discover Now Augmented Reality (AR)
