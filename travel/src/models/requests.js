@@ -6,10 +6,9 @@ async function getFlightInfo(airline, flightNumber){
   return res.data.flightInfo
 }
 
-const timeToAirport = (start, end, mode = 'driving') => {
-  return axios.get(`${BASE_URL}/time/toairport?start=${start}&end=${end}&mode=${mode}`)
-    .then(result => result)
-    .catch(console.log)
+const timeToAirport = async (start, end, mode = 'driving') => {
+  let res = await axios.get(`${BASE_URL}/time/toairport?start=${start}&end=${end}&mode=${mode}`)
+  return res.data 
   }
 
 
