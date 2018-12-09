@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Button, Form, Grid, Segment, Label } from 'semantic-ui-react'
 import airplane from '../../assets/airplane.png'
+import './flightPg.css'
 
 export class Top extends Component {
   render() {
