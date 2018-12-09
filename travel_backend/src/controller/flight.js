@@ -5,6 +5,7 @@ async function getFlightInfo(req, res, next){
   try{
     const airline = req.params.airline
     const flightNumber = req.params.flightNumber
+    const dateString = req.params.dateString || 20181210;
     const response = await model.getFlightInfo(airline, flightNumber)
     var options = {compact:true}
     const resp = convert.xml2js(response.data, options);
