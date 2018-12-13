@@ -9,7 +9,7 @@ Hack the travel industry by using two to three of Discover’s APIs to create an
 ### Motivation
 Over 50% of U.S. vacationers admit they're more stressed today compared to a year ago, and it's causing more than one in three (37%) to cancel or delay their trip, according to a survey by Wyndham Vacation Rentals (2017). How can we mitigate this stress?
 
-#### seal_team_404
+#### Team
 * Abhi Banerjee
 * Andrew Nicholls
 * Diep Truong
@@ -17,7 +17,7 @@ Over 50% of U.S. vacationers admit they're more stressed today compared to a yea
 * Diane Chiang
 
 ### Our Project
-travelHUB provides a seamless user experience from door to seat, while reinforcing the Discover brand & collecting insights on customer behavior.
+travelHUB provides a seamless experience by predicting wait & travel times, while promoting the Discover brand & collecting insights on customer behavior.
 
 ### Unique Features
 * Discover Now Augmented Reality (AR)
